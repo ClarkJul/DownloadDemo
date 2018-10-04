@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="72dp">
+
+    <ImageView
+        android:id="@+id/home_list_item_image"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="16dp" />
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="65dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/home_list_item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="name"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/home_list_item_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="下载了10000次，50M"
+            android:textColor="@color/gray"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/home_list_item_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="很好的app"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="@color/gray"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/download_app"
+        android:layout_width="75dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:padding="5dp">
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_gravity="center"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:max="100"
+            android:progress="0"
+            android:progressDrawable="@drawable/progressbar_color"/>
+        <Button
+            android:id="@+id/btn_install"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/list_item_button_install"
+            android:text="下载"
+            android:textColor="@color/limegreen"
+            android:textSize="16sp"/>
+    </FrameLayout>
+
+</RelativeLayout>

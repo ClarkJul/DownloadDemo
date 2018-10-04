@@ -1,0 +1,927 @@
+ [
+    {
+      "id": 1583830,
+      "pkg": "com.tencent.qqmusic",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=54b0172d30989c6224815c82085a720e&ref=http%3A%2F%2Fh.hiphotos.bdimg.com&src=http%3A%2F%2Fh.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3D62e0afe042540923aa3c6b7ba36afd3c%2Fb7003af33a87e950da7ba2af1b385343faf2b481.jpg",
+      "name": "QQ音乐",
+      "sdesc": "在线音乐 听歌 歌曲识别",
+      "fileurl": "http://m.baidu.com/api?action=redirect&token=ivviyfbx&from=1019356t&type=app&dltype=new&refid=1413805513&tj=soft_23001759_2284315631_QQ%E9%9F%B3%E4%B9%90&refp=action_topapps&blink=27b0687474703a2f2f612e67646f776e2e62616964752e636f6d2f646174612f7769736567616d652f363333306531663737393439306430332f515179696e6c655f3736332e61706b3f66726f6d3d6131313031695a&crversion=1",
+      "isfree": 0,
+      "vercode": 763,
+      "vername": "7.9.5.16",
+      "size": "31196258",
+      "updatetime": "2018-01-30 12:20:38",
+      "downloads": 115556876,
+      "type": 1005,
+      "islocal": 1,
+      "src": "腾讯科技（北京）有限公司",
+      "tags": [
+        {
+          "name": "媒体娱乐",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1583668,
+      "pkg": "com.tencent.karaoke",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=a1ceb04faabab53abc78aedb60832d32&ref=http%3A%2F%2Fb.hiphotos.bdimg.com&src=http%3A%2F%2Fb.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3Dfa7c9cdf60600c33f02cd6cd2b7e7d3a%2Fb8014a90f603738d386853e9b81bb051f919ecdf.jpg",
+      "name": "全民K歌",
+      "sdesc": "K歌 唱歌 k歌",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180427%2Fe90f85bba671eac38d6ad5cab5bf5f48%2Fcom.tencent.karaoke_151.apk&softId=1959124&from=ivvi&pname=com.tencent.karaoke",
+      "isfree": 0,
+      "vercode": 151,
+      "vername": "4.6.6.278",
+      "size": "45586522",
+      "updatetime": "2018-04-28 13:46:48",
+      "downloads": 50518929,
+      "type": 1005,
+      "islocal": 0,
+      "src": "腾讯科技（北京）有限公司",
+      "tags": [
+        {
+          "name": "媒体娱乐",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1536134,
+      "pkg": "cn.kuwo.player",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=477a8dc2ea36fdbf0f3a736021fc2747&ref=http%3A%2F%2Fe.hiphotos.bdimg.com&src=http%3A%2F%2Fe.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3D340cd860083b5bb5be8228fb07e1f90c%2F2f738bd4b31c8701bdb36b2d2c7f9e2f0608fff0.jpg",
+      "name": "酷我音乐",
+      "sdesc": "在线音乐",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180517%2F700247dab98dc2a66b5f3ca2206c5dce%2Fcn.kuwo.player_8646.apk&softId=1656&from=ivvi&pname=cn.kuwo.player",
+      "isfree": 0,
+      "vercode": 8646,
+      "vername": "8.6.4.6",
+      "size": "43155164",
+      "updatetime": "2018-05-18 13:01:34",
+      "downloads": 384827305,
+      "type": 1005,
+      "islocal": 0,
+      "src": "北京酷我科技有限公司",
+      "tags": [
+        {
+          "name": "媒体娱乐",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1580913,
+      "pkg": "fm.xiami.main",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=f87c565624ac41f215c027ce5b00f69b&ref=http%3A%2F%2Fd.hiphotos.bdimg.com&src=http%3A%2F%2Fd.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3D4987f70701d162d985bb6a1920ed85d9%2Faa18972bd40735faad42f77a95510fb30e240846.jpg",
+      "name": "虾米音乐",
+      "sdesc": "音乐 在线音乐 听歌 播放器",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180511%2F0a5a8d75ca770bf725d6a113b75eb427%2Ffm.xiami.main_192.apk&softId=249162&from=ivvi&pname=fm.xiami.main",
+      "isfree": 0,
+      "vercode": 192,
+      "vername": "7.0.6",
+      "size": "48466687",
+      "updatetime": "2018-05-12 11:19:00",
+      "downloads": 23239540,
+      "type": 1005,
+      "islocal": 0,
+      "src": "杭州阿里巴巴音乐科技有限公司",
+      "tags": [
+        {
+          "name": "媒体娱乐",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1583787,
+      "pkg": "com.shoujiduoduo.ringtone",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=6c26645b9f3611c1224da9cc47c5fc09&ref=http%3A%2F%2Fc.hiphotos.bdimg.com&src=http%3A%2F%2Fc.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3D40f6ad72e250352ab1342d0d6271d7c7%2F29381f30e924b899d304dbfd65061d950a7bf63f.jpg",
+      "name": "铃声多多",
+      "sdesc": "音乐 彩铃 铃声剪辑 铃声·彩铃",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180518%2F3d2adad180d91d89412e8edc06d49e99%2Fcom.shoujiduoduo.ringtone_6008730.apk&softId=111237&from=ivvi&pname=com.shoujiduoduo.ringtone",
+      "isfree": 0,
+      "vercode": 6008730,
+      "vername": "8.7.3.0",
+      "size": "8492367",
+      "updatetime": "2018-05-19 11:17:45",
+      "downloads": 195671550,
+      "type": 1005,
+      "islocal": 0,
+      "src": "北京多宝灵动科技有限公司",
+      "tags": [
+        {
+          "name": "媒体娱乐",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1580768,
+      "pkg": "com.lft.turn",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=95b8e2da31144eb4d029f26c765998e1&ref=http%3A%2F%2Ff.hiphotos.bdimg.com&src=http%3A%2F%2Ff.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3Da40e44635966d0167e4c962da619f832%2F2cf5e0fe9925bc31c1b5c63655df8db1ca1370b0.jpg",
+      "name": "导学号",
+      "sdesc": "学习 家教",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180421%2F352399f4ccd56341dd57e43db8ec54fb%2Fcom.lft.turn_637.apk&softId=3024754&from=ivvi&pname=com.lft.turn",
+      "isfree": 0,
+      "vercode": 637,
+      "vername": "5.1.2",
+      "size": "11145323",
+      "updatetime": "2018-04-22 11:19:07",
+      "downloads": 903026,
+      "type": 1010,
+      "islocal": 0,
+      "src": "西安博创软件有限公司",
+      "tags": [
+        {
+          "name": "实用工具",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1549460,
+      "pkg": "com.qidian.QDReader",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=466d29911972addd734b9c4afaa36d93&ref=http%3A%2F%2Fd.hiphotos.bdimg.com&src=http%3A%2F%2Fd.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3Dfcda464eabec08fa26551ba268dc1158%2Fc995d143ad4bd113782955c351afa40f4afb055e.jpg",
+      "name": "起点读书",
+      "sdesc": "小说 阅读器 电子书 图书",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180424%2F850ba8184c5254e64d95d79b5195fc47%2Fcom.qidian.QDReader_332.apk&softId=4890&from=ivvi&pname=com.qidian.QDReader",
+      "isfree": 0,
+      "vercode": 332,
+      "vername": "7.0.0",
+      "size": "29677799",
+      "updatetime": "2018-04-25 11:18:08",
+      "downloads": 19902596,
+      "type": 1007,
+      "islocal": 0,
+      "src": "上海玄霆娱乐信息科技有限公司",
+      "tags": [
+        {
+          "name": "资讯阅读",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1583840,
+      "pkg": "bubei.tingshu",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=c49f5e34db0707035de99203883daf91&ref=http%3A%2F%2Fg.hiphotos.bdimg.com&src=http%3A%2F%2Fg.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3Df6f3b8fcb1a1cd1105e37a258820e4c9%2F7aec54e736d12f2eb717f2ac44c2d562843568ef.jpg",
+      "name": "懒人听书",
+      "sdesc": "听书 有声小说 评书 相声 百家讲坛",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180417%2F9ef7fe82609cb86d44fb9b2c22c6d1de%2Fbubei.tingshu_18634.apk&softId=3525&from=ivvi&pname=bubei.tingshu",
+      "isfree": 0,
+      "vercode": 18634,
+      "vername": "6.3.4",
+      "size": "16535279",
+      "updatetime": "2018-04-18 13:04:38",
+      "downloads": 82466734,
+      "type": 1007,
+      "islocal": 0,
+      "src": "深圳市懒人在线科技有限公司",
+      "tags": [
+        {
+          "name": "资讯阅读",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1583855,
+      "pkg": "com.jiongji.andriod.card",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=f9f1d7b0fb68146702eba652e1267292&ref=http%3A%2F%2Fa.hiphotos.bdimg.com&src=http%3A%2F%2Fa.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3Db85e06e23d7adab43d851346bae69f29%2Fb812c8fcc3cec3fdbc4412bfdd88d43f86942785.jpg",
+      "name": "百词斩",
+      "sdesc": "听力 背单词 英语 单词 英语单词 雅思托福 外语学习",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180509%2F5b4ced33a707e22e63632055a40701bf%2Fcom.jiongji.andriod.card_6021408.apk&softId=1627&from=ivvi&pname=com.jiongji.andriod.card",
+      "isfree": 0,
+      "vercode": 6021408,
+      "vername": "6.2.14",
+      "size": "58170927",
+      "updatetime": "2018-05-10 12:59:12",
+      "downloads": 18663755,
+      "type": 1010,
+      "islocal": 0,
+      "src": "成都超有爱科技有限公司",
+      "tags": [
+        {
+          "name": "实用工具",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1560482,
+      "pkg": "com.kingsoft",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=29b3774642384fa6d9b0a378b3894f4e&ref=http%3A%2F%2Fd.hiphotos.bdimg.com&src=http%3A%2F%2Fd.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3D3599654041ed2e73fcbc8e29b6338dbe%2Fc2cec3fdfc039245d56b6bcb8c94a4c27c1e2513.jpg",
+      "name": "金山词霸",
+      "sdesc": "背单词 口语 英语 词典 翻译 单词 外语学习",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180515%2Fa882e2bf90065df4680e08ab29bc128e%2Fcom.kingsoft_186.apk&softId=1432&from=ivvi&pname=com.kingsoft",
+      "isfree": 0,
+      "vercode": 186,
+      "vername": "9.2.2",
+      "size": "22712313",
+      "updatetime": "2018-05-16 11:17:53",
+      "downloads": 43557276,
+      "type": 1001,
+      "islocal": 0,
+      "src": "珠海金山办公软件有限公司",
+      "tags": [
+        {
+          "name": "系统工具",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1583874,
+      "pkg": "com.sankuai.meituan",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=1f8ac5751c2aa71e11fea168c571be03&ref=http%3A%2F%2Fe.hiphotos.bdimg.com&src=http%3A%2F%2Fe.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3D9f10498b0223dd542126af6de03b9feb%2F3bf33a87e950352a925f10e75843fbf2b2118b26.jpg",
+      "name": "美团",
+      "sdesc": "优惠 折扣 团购·优惠券 外卖 优惠券 酒店 团购",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180504%2Fd7a59dd6df22c0bfc79faaf85529ffb8%2Fcom.sankuai.meituan_626.apk&softId=1068&from=ivvi&pname=com.sankuai.meituan",
+      "isfree": 0,
+      "vercode": 626,
+      "vername": "9.2.6",
+      "size": "76298649",
+      "updatetime": "2018-05-05 11:17:23",
+      "downloads": 292679136,
+      "type": 1004,
+      "islocal": 0,
+      "src": "北京三快科技有限公司",
+      "tags": [
+        {
+          "name": "网络工具",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1583759,
+      "pkg": "me.ele",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=f14d36bac5697791130c76450bdac3bf&ref=http%3A%2F%2Fd.hiphotos.bdimg.com&src=http%3A%2F%2Fd.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3D2871df7f875494ee8777071c1cc7cccb%2Fd8f9d72a6059252d0f8543c43f9b033b5ab5b964.jpg",
+      "name": "饿了么",
+      "sdesc": "生活 外卖 优惠 美食 o2o 生鲜配送",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180504%2Fb21e16c6f6e9f6d5c85a0baac43dff16%2Fme.ele_252.apk&softId=204576&from=ivvi&pname=me.ele",
+      "isfree": 0,
+      "vercode": 252,
+      "vername": "7.38",
+      "size": "32597077",
+      "updatetime": "2018-05-05 11:17:51",
+      "downloads": 27161312,
+      "type": 1009,
+      "islocal": 0,
+      "src": "拉扎斯网络科技(上海)有限公司",
+      "tags": [
+        {
+          "name": "生活助手",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1583986,
+      "pkg": "com.baidu.lbs.waimai",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=d985ca6c89bd7b5f4562dd7e4b9c5bb2&ref=http%3A%2F%2Fc.hiphotos.bdimg.com&src=http%3A%2F%2Fc.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3Dc943b00b1ece36d3a2518b350bc116b2%2F8601a18b87d6277f0cd97ee923381f30e824fc1c.jpg",
+      "name": "百度外卖",
+      "sdesc": "生活服务 外卖 o2o",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180420%2F43ccfa5c8c74322215de569f2cfae685%2Fcom.baidu.lbs.waimai_130.apk&softId=1943695&from=ivvi&pname=com.baidu.lbs.waimai",
+      "isfree": 0,
+      "vercode": 130,
+      "vername": "4.17.0",
+      "size": "17855119",
+      "updatetime": "2018-04-21 11:19:38",
+      "downloads": 3450000,
+      "type": 1010,
+      "islocal": 0,
+      "src": "官方",
+      "tags": [
+        {
+          "name": "实用工具",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1583832,
+      "pkg": "com.dianping.v1",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=08bd2332f8c95418dde416641fa0ce24&ref=http%3A%2F%2Fb.hiphotos.bdimg.com&src=http%3A%2F%2Fb.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3D02e2dc86d6c451daf6a304ee87cf7e53%2Fb58f8c5494eef01f231e5c1debfe9925bd317ddb.jpg",
+      "name": "大众点评",
+      "sdesc": "生活服务 折扣 团购·优惠券 o2o 优惠 返利 周边信息 男性 团购 餐馆",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180509%2F212cf4018c4a86ec071ce8b9f65223aa%2Fcom.dianping.v1_100101.apk&softId=4674&from=ivvi&pname=com.dianping.v1",
+      "isfree": 0,
+      "vercode": 100101,
+      "vername": "10.1.4",
+      "size": "65886688",
+      "updatetime": "2018-05-10 11:17:32",
+      "downloads": 163541244,
+      "type": 1008,
+      "islocal": 0,
+      "src": "上海汉涛信息咨询有限公司",
+      "tags": [
+        {
+          "name": "出行购物",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1583705,
+      "pkg": "com.sankuai.meituan.takeoutnew",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=3e58d43749bb7c29027effc532218811&ref=http%3A%2F%2Fg.hiphotos.bdimg.com&src=http%3A%2F%2Fg.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3D6343be554c10b912bf94fefbf2cfd036%2F2e2eb9389b504fc27b3049ebeedde71191ef6df5.jpg",
+      "name": "美团外卖",
+      "sdesc": "生活 外卖 o2o",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180428%2F0813cd3af6b7a106cd6b8727b6de7a12%2Fcom.sankuai.meituan.takeoutnew_60503.apk&softId=939365&from=ivvi&pname=com.sankuai.meituan.takeoutnew",
+      "isfree": 0,
+      "vercode": 60503,
+      "vername": "6.5.3",
+      "size": "27067242",
+      "updatetime": "2018-04-29 11:19:41",
+      "downloads": 19305024,
+      "type": 1009,
+      "islocal": 0,
+      "src": "北京三快在线科技有限公司",
+      "tags": [
+        {
+          "name": "生活助手",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 0
+    },
+    {
+      "id": 1583527,
+      "pkg": "com.mobike.mobikeapp",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=66906d96258fea8790054ca708c1df00&ref=http%3A%2F%2Fc.hiphotos.bdimg.com&src=http%3A%2F%2Fc.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3Df001b8f09a8fa0ec7f926c0817a575db%2Fd833c895d143ad4b43c23c0389025aafa50f0600.jpg",
+      "name": "摩拜单车",
+      "sdesc": "生活服务 租车 专车 单车 骑行 共享单车",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180515%2Fe0f46ac7ed89b23378a668ab2633d4ff%2Fcom.mobike.mobikeapp_1857.apk&softId=3209499&from=ivvi&pname=com.mobike.mobikeapp",
+      "isfree": 0,
+      "vercode": 1857,
+      "vername": "7.4.1",
+      "size": "29710194",
+      "updatetime": "2018-05-16 11:18:52",
+      "downloads": 2129287,
+      "type": 1009,
+      "islocal": 0,
+      "src": "北京摩拜科技有限公司",
+      "tags": [
+        {
+          "name": "生活助手",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 1
+    },
+    {
+      "id": 1556468,
+      "pkg": "com.kugou.fanxing",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=f7f14dba948ea0f158d9a47c2743b757&ref=http%3A%2F%2Fe.hiphotos.bdimg.com&src=http%3A%2F%2Fe.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3Df5e4df1c03fa513d51ff64db0c5f79ce%2Fd043ad4bd11373f0e669255faf0f4bfbfaed049f.jpg",
+      "name": "酷狗直播",
+      "sdesc": "男性 视频秀 美女 屌丝 直播秀 真人秀直播 美女直播 真人秀",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180521%2F6099abf92e6eed73b39b44a06f6aaa9b%2Fcom.kugou.fanxing_39626.apk&softId=716441&from=ivvi&pname=com.kugou.fanxing",
+      "isfree": 0,
+      "vercode": 39626,
+      "vername": "3.96.26",
+      "size": "58794725",
+      "updatetime": "2018-05-22 11:18:46",
+      "downloads": 2670409,
+      "type": 1005,
+      "islocal": 0,
+      "src": "广州酷狗计算机科技有限公司",
+      "tags": [
+        {
+          "name": "媒体娱乐",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 2
+    },
+    {
+      "id": 1584073,
+      "pkg": "com.sohu.newsclient",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=11388e28bf2b23728aa05fd435b4820b&ref=http%3A%2F%2Fc.hiphotos.bdimg.com&src=http%3A%2F%2Fc.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3D63287c63c611728b30788427f9ceeffb%2F55e736d12f2eb93829788900de628535e5dd6f2f.jpg",
+      "name": "搜狐新闻",
+      "sdesc": "新闻资讯 新闻 男性 门户 要闻 汽车新闻",
+      "fileurl": "http://m.baidu.com/api?action=redirect&token=ivviyfbx&from=1019356t&type=app&dltype=new&refid=1413805513&tj=soft_22998510_1609547484_%E6%90%9C%E7%8B%90%E6%96%B0%E9%97%BB&refp=action_topapps&blink=27b0687474703a2f2f612e67646f776e2e62616964752e636f6d2f646174612f7769736567616d652f386436396235396439383236653034312f736f75687578696e77656e5f3133312e61706b3f66726f6d3d6131313031695a&crversion=1",
+      "isfree": 0,
+      "vercode": 131,
+      "vername": "5.9.9",
+      "size": "19313781",
+      "updatetime": "2017-12-19 00:00:00",
+      "downloads": 120000000,
+      "type": 1007,
+      "islocal": 1,
+      "src": "官方",
+      "tags": [
+        {
+          "name": "资讯阅读",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 3
+    },
+    {
+      "id": 1559863,
+      "pkg": "com.erdo.android.FJDXCartoon",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=cd57e33150fe637dd2b892ee15886db2&ref=http%3A%2F%2Fc.hiphotos.bdimg.com&src=http%3A%2F%2Fc.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3D4860423b5c2c11dfde84b72652154ee5%2F34fae6cd7b899e51250abfcc49a7d933c9950d65.jpg",
+      "name": "爱动漫",
+      "sdesc": "搞笑 热血 漫画 科幻 视频 动漫",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180428%2F301e0352c8a01c957afa2ee7e2fbee5c%2Fcom.erdo.android.FJDXCartoon_4002000.apk&softId=1425&from=ivvi&pname=com.erdo.android.FJDXCartoon",
+      "isfree": 0,
+      "vercode": 4002000,
+      "vername": "4.2.00",
+      "size": "24977754",
+      "updatetime": "2018-04-29 11:18:28",
+      "downloads": 14597019,
+      "type": 1005,
+      "islocal": 0,
+      "src": "天翼爱动漫文化传媒有限公司",
+      "tags": [
+        {
+          "name": "媒体娱乐",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 4
+    },
+    {
+      "id": 1583680,
+      "pkg": "com.wondertek.paper",
+      "icon": "http://cdn00.baidu-img.cn/timg?vsapp&size=b800_800&quality=100&imgtype=3&er&sec=0&di=ff1132adc54dced8fff360b2721d7eb8&ref=http%3A%2F%2Fb.hiphotos.bdimg.com&src=http%3A%2F%2Fb.hiphotos.bdimg.com%2Fwisegame%2Fwh%253D512%252C512%2Fsign%3D2b57c40f15178a82ce6977a5c7315fb8%2F7e3e6709c93d70cf92b694cef3dcd100bba12ba0.jpg",
+      "name": "澎湃新闻",
+      "sdesc": "新闻资讯 资讯 头条 新闻 蒲公英创业计划",
+      "fileurl": "http://openbox.mobilem.360.cn/third/download?downloadUrl=http%3A%2F%2Fshouji.360tpcdn.com%2F180510%2Fbe3b09b873a236add2bb7c74bfbedf77%2Fcom.wondertek.paper_5440.apk&softId=1808525&from=ivvi&pname=com.wondertek.paper",
+      "isfree": 0,
+      "vercode": 5440,
+      "vername": "5.4.4",
+      "size": "23897803",
+      "updatetime": "2018-05-11 11:18:39",
+      "downloads": 3295658,
+      "type": 1007,
+      "islocal": 0,
+      "src": "上海东方报业有限公司",
+      "tags": [
+        {
+          "name": "资讯阅读",
+          "color": "#757575",
+          "bgcolor": "#f0f1f4"
+        },
+        {
+          "name": "官方版",
+          "color": "#ffffff",
+          "bgcolor": "#3d8afd"
+        },
+        {
+          "name": "热门",
+          "color": "#ffffff",
+          "bgcolor": "#fa5153"
+        },
+        {
+          "name": "最近更新",
+          "color": "#ffffff",
+          "bgcolor": "#eeb317"
+        },
+        {
+          "name": "火爆",
+          "color": "#ffffff",
+          "bgcolor": "#ff954b"
+        }
+      ],
+      "awardkey": 0,
+      "awardvalue": 0,
+      "weight": 6
+    }
+ ]
